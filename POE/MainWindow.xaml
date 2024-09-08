@@ -23,11 +23,11 @@
         <TextBox HorizontalAlignment="Left" Margin="166,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Grid.Column="1" Height="28"/>
         <TextBox HorizontalAlignment="Left" Margin="165,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="137" Grid.Column="1" Height="32"/>
         <TextBox HorizontalAlignment="Left" Margin="163,302,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" Grid.Column="1" Height="26"/>
-        <TextBox HorizontalAlignment="Left" Margin="164,349,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" Grid.Column="1" Height="27"/>
+        <TextBox HorizontalAlignment="Left" Margin="162,349,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" Grid.Column="1" Height="27"/>
         <Label Content="Company:" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="11,201,0,0" VerticalAlignment="Top" Height="38" Width="97" FontSize="18"/>
         <TextBox HorizontalAlignment="Left" Margin="164,206,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" Grid.Column="1" Height="28"/>
         <Button Content="Submit" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="118,408,0,0" VerticalAlignment="Top" Height="39" Width="76" FontSize="18"/>
-        <Button Content="Cancel" HorizontalAlignment="Left" Margin="256,410,0,0" VerticalAlignment="Top" Height="32" Width="147" Grid.Column="1" Grid.ColumnSpan="2" FontSize="18"/>
+        <Button Content="Cancel" HorizontalAlignment="Left" Margin="242,410,0,0" VerticalAlignment="Top" Height="32" Width="147" Grid.Column="1" Grid.ColumnSpan="2" FontSize="18"/>
         <Label Grid.Column="1" Content="Adress:" HorizontalAlignment="Left" Margin="14,160,0,0" VerticalAlignment="Top" FontSize="18"/>
         <TextBox Grid.Column="1" HorizontalAlignment="Left" Margin="166,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="27"/>
 
