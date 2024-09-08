@@ -7,9 +7,9 @@
         mc:Ignorable="d"
         Title="Window2" Height="450" Width="800">
     <Grid>
-        <Label Content="Employee Claim System" HorizontalAlignment="Left" Margin="201,15,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="36"/>
+        <Label Content="Claim System" HorizontalAlignment="Left" Margin="265,15,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="36"/>
         <Label Content="Full Name:" HorizontalAlignment="Left" Margin="32,114,0,0" VerticalAlignment="Top" FontSize="18"/>
-        <Label Content="Employee ID:" HorizontalAlignment="Left" Margin="30,173,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="ID:" HorizontalAlignment="Left" Margin="30,173,0,0" VerticalAlignment="Top" FontSize="18"/>
         <Label Content="Payment Claim Number:" HorizontalAlignment="Left" Margin="27,216,0,0" VerticalAlignment="Top" FontSize="18"/>
         <Label Content="Days Worked:" HorizontalAlignment="Left" Margin="29,268,0,0" VerticalAlignment="Top" Height="35" Width="124" FontSize="18"/>
         <TextBox HorizontalAlignment="Left" Margin="268,113,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133" Height="32"/>
