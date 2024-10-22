@@ -11,6 +11,17 @@
         <TextBlock HorizontalAlignment="Left" Margin="7,44,0,0" TextWrapping="Wrap" Text="_____________________________________________________________________________________________________________________________________________________________" VerticalAlignment="Top"/>
         <Button Content="Approve" HorizontalAlignment="Left" Margin="67,373,0,0" VerticalAlignment="Top" Height="32" Width="61" FontSize="14"/>
         <Button Content="Reject" HorizontalAlignment="Left" Margin="158,373,0,0" VerticalAlignment="Top" Height="34" Width="59" FontSize="14"/>
+        <Label Content="Claim ID:" HorizontalAlignment="Left" Margin="24,64,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Lecture Title:" HorizontalAlignment="Left" Margin="25,97,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Submitted By:" HorizontalAlignment="Left" Margin="24,133,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.461,0.618" FontSize="18"/>
+        <Label Content="Date Submitted:" HorizontalAlignment="Left" Margin="24,166,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label Content="Supporting Documents:" HorizontalAlignment="Left" Margin="25,202,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox HorizontalAlignment="Left" Margin="266,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="266,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="266,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="265,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="265,211,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
 
 
     </Grid>
