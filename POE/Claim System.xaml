@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:POE"
         mc:Ignorable="d"
-        Title="Window2" Height="450" Width="800">
+        Title="Claim System" Height="450" Width="800">
     <Grid>
         <Label Content="Claim System" HorizontalAlignment="Left" Margin="265,15,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="36"/>
         <Label Content="Full Name:" HorizontalAlignment="Left" Margin="32,114,0,0" VerticalAlignment="Top" FontSize="18"/>
