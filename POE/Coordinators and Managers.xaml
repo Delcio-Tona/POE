@@ -9,7 +9,9 @@
     <Grid>
         <TextBlock HorizontalAlignment="Left" Margin="292,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" FontWeight="Bold" FontSize="24"><Run Text="Pending Claim"/><LineBreak/><Run/></TextBlock>
         <TextBlock HorizontalAlignment="Left" Margin="7,44,0,0" TextWrapping="Wrap" Text="_____________________________________________________________________________________________________________________________________________________________" VerticalAlignment="Top"/>
-        
+        <Button Content="Approve" HorizontalAlignment="Left" Margin="67,373,0,0" VerticalAlignment="Top" Height="32" Width="61" FontSize="14"/>
+        <Button Content="Reject" HorizontalAlignment="Left" Margin="160,373,0,0" VerticalAlignment="Top" Height="34" Width="59" FontSize="14"/>
+
 
     </Grid>
 </Window>
